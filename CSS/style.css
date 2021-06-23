@@ -7,8 +7,15 @@ body {
 
 /* Informações de boas vindas */
 .info {
-
+    width: 70%;
+    margin-top: 2%;
+    margin-left: 2%;
+    text-align: center;
     background-color: white;
+}
+
+#logoorkut {
+    margin-top: 2%;
 }
 
 .conta-google {
@@ -19,4 +26,8 @@ body {
 #img-google {
     height: 2%;
     width: 5%;
+}
+
+#logoorkut {
+    width: 20%;
 }
