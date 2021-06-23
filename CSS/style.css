@@ -5,7 +5,18 @@ body {
     background-color: rgb(185, 232, 255);
 }
 
+/* Informações de boas vindas */
 .info {
-    
+
     background-color: white;
+}
+
+.conta-google {
+    font-weight: bold;
+}
+
+/* Logo Google Pequena para Acesso/Login */
+#img-google {
+    height: 2%;
+    width: 5%;
 }
