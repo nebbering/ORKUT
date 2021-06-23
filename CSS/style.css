@@ -16,6 +16,7 @@ body {
 }
 
 #logoorkut{
+    width: 50%;
     margin-top: 25%;
 }
 
@@ -24,6 +25,7 @@ body {
     margin: 1%;
     border-style: solid;
     border-color: #DAE9FE;
+    text-align: center;
 }
 
 .cadastro {
@@ -31,6 +33,7 @@ body {
     margin: 1%;
     border-style: solid;
     border-color: #DAE9FE;
+    text-align: center;
 }
 
 main {
@@ -42,4 +45,12 @@ main {
 
 #google {
     width: 8%;
+ }
+
+ strong {
+     color: rgb(255, 0, 221);
+ }
+
+ .conta-google {
+     font-weight: bold;
  }
