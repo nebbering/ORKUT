@@ -1,0 +1,11 @@
+body {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: #B1C2FA;
+}
+
+.img-perfil {
+    height: 10%;
+    width: 100%;
+}
