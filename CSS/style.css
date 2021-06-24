@@ -17,12 +17,12 @@ body {
 
 #logoorkut{
     width: 50%;
-    margin-top: 25%;
+    margin-top: 15%;
 }
 
 .login {
     background-color: #C0D3FD;
-    margin: 1%;
+    margin: 2%;
     border-style: solid;
     border-color: #DAE9FE;
     text-align: center;
@@ -30,17 +30,17 @@ body {
 
 .cadastro {
     background-color: #C0D3FD;
-    margin: 1%;
+    margin: 2%;
     border-style: solid;
     border-color: #DAE9FE;
     text-align: center;
 }
 
 main {
-    height: 100vh;
+    height: 65vh;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr;
 }
 
 #google {
@@ -71,4 +71,9 @@ main {
 
  .help {
      font-size: 80%;
+ }
+
+ .rodape {
+    text-align: center;
+    background-color: #BCCDE9;
  }
