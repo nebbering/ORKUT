@@ -2,12 +2,12 @@ body {
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
-    background-color: #B1C2FA;
+    background-color: #DAE9FE;
 }
 
 main {
     background-color: aquamarine;
-    margin: 1%;
+    margin: 3%;
     height: 100%;
 }
 
@@ -17,4 +17,16 @@ main {
 
 .navbar {
     background-color: #B1C2FA;
+    text-align: center;
+}
+
+.subnav {
+    padding: 0.5%;
+    height: 50%;
+    background-color: bisque;
+    justify-items: center;
+}
+
+#logoOrkut {
+    width: 7%;
 }
