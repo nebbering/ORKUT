@@ -5,7 +5,16 @@ body {
     background-color: #B1C2FA;
 }
 
-.img-perfil {
-    height: 10%;
-    width: 100%;
+main {
+    background-color: aquamarine;
+    margin: 1%;
+    height: 100%;
+}
+
+.perfil {
+    width: 10%;
+}
+
+.navbar {
+    background-color: #B1C2FA;
 }
