@@ -27,6 +27,15 @@ main {
     justify-items: center;
 }
 
+.btn {
+    margin-left: 1%;
+}
+
+.btn-temas {
+    margin-left: 1%;
+    margin-right: 36%;
+}
+
 #logoOrkut {
     width: 7%;
 }
