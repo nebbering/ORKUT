@@ -12,8 +12,8 @@ main {
 }
 
 .perfil {
-    width: 10%;
-    padding: 1%;
+    width: 75%;
+    padding: 5%;
 }
 
 .navbar {
@@ -43,4 +43,9 @@ main {
 
 #logoOrkut {
     width: 7%;
+}
+
+#lateral-esq {
+    background-color: blue;
+    margin-right: 85%;
 }
