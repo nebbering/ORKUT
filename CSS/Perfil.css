@@ -13,6 +13,7 @@ main {
 
 .perfil {
     width: 10%;
+    padding: 1%;
 }
 
 .navbar {
@@ -34,6 +35,10 @@ main {
 .btn-temas {
     margin-left: 1%;
     margin-right: 36%;
+}
+
+#emailUser {
+    margin-left: 41%;
 }
 
 #logoOrkut {
